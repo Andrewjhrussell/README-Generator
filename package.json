@@ -1,0 +1,19 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "ReadMe-Generator",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrewjhrussell/README-Generator.git"
+  },
+  "author": "AndrewR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrewjhrussell/README-Generator/issues"
+  },
+  "homepage": "https://github.com/Andrewjhrussell/README-Generator#readme"
+}
